@@ -1,4 +1,4 @@
-# Flash PLU 星际争霸1 视频
+# Flash PLU 星际争霸1 视频 (TvP)
 
 <ul>
 <li> <span>2012-08-18</span> <a href="http://sc.plu.cn/vod/spl08-09/2012-08-18/1048919.html"  target="_blank">[SPL11-12]Flash(T) vs Bridge(P) 03</a></li>
