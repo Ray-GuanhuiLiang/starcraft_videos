@@ -4,4 +4,4 @@
 
 包括以下：
 
-[Flash PLU 视频](flash_plu.md)
+[Flash PLU TvP 视频](flash_TvP_plu.md)
